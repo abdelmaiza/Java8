@@ -1,0 +1,241 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"09a7efec-aab4-4845-a799-70d97d34d24c\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <ignored path=\"$PROJECT_DIR$/out/\" />\r\n    <ignored path=\"$PROJECT_DIR$/target/\" />\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FUSProjectUsageTrigger\">\r\n    <session id=\"-2111606562\">\r\n      <usages-collector id=\"statistics.lifecycle.project\">\r\n        <counts>\r\n          <entry key=\"project.open.time.12\" value=\"1\" />\r\n          <entry key=\"project.opened\" value=\"1\" />\r\n        </counts>\r\n      </usages-collector>\r\n    </session>\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf>\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/pom.xml\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MavenProjectNavigator\">\r\n    <treeState>\r\n      <expand>\r\n        <path>\r\n          <item name=\"\" type=\"16c1761:MavenProjectsStructure$RootNode\" />\r\n          <item name=\"java-eight-exemple\" type=\"9519ce18:MavenProjectsStructure$ProjectNode\" />\r\n        </path>\r\n        <path>\r\n          <item name=\"\" type=\"16c1761:MavenProjectsStructure$RootNode\" />\r\n          <item name=\"java-eight-exemple\" type=\"9519ce18:MavenProjectsStructure$ProjectNode\" />\r\n          <item name=\"Lifecycle\" type=\"58874e2:MavenProjectsStructure$LifecycleNode\" />\r\n        </path>\r\n      </expand>\r\n      <select />\r\n    </treeState>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"width\" value=\"1920\" />\r\n    <option name=\"height\" value=\"1047\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"Scope\" />\r\n      <pane id=\"PackagesPane\" />\r\n      <pane id=\"ProjectPane\" />\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp\" value=\"1562455176964\" />\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"09a7efec-aab4-4845-a799-70d97d34d24c\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1562454050280</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1562454050280</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-8\" y=\"-8\" width=\"1936\" height=\"1056\" extended-state=\"6\" />\r\n    <layout>\r\n      <window_info id=\"Image Layers\" />\r\n      <window_info id=\"Designer\" />\r\n      <window_info id=\"UI Designer\" />\r\n      <window_info id=\"Capture Tool\" />\r\n      <window_info id=\"Favorites\" side_tool=\"true\" />\r\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"SonarLint\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" show_stripe_button=\"false\" />\r\n      <window_info active=\"true\" anchor=\"bottom\" id=\"Terminal\" visible=\"true\" weight=\"0.329718\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Messages\" weight=\"0.329718\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" weight=\"0.329718\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"right\" id=\"Palette\" />\r\n      <window_info anchor=\"right\" id=\"Theme Preview\" />\r\n      <window_info anchor=\"right\" id=\"Capture Analysis\" />\r\n      <window_info anchor=\"right\" id=\"Palette&#9;\" />\r\n      <window_info anchor=\"right\" id=\"Maven Projects\" visible=\"true\" weight=\"0.32995737\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n    </layout>\r\n  </component>\r\n  <component name=\"VcsContentAnnotationSettings\">\r\n    <option name=\"myLimit\" value=\"2678400000\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/pom.xml\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n  </component>\r\n  <component name=\"masterDetails\">\r\n    <states>\r\n      <state key=\"ProjectJDKs.UI\">\r\n        <settings>\r\n          <last-edited>1.8</last-edited>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n    </states>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 448f3615ab08d28d34c5db170b5d040cab8996c3)
++++ .idea/workspace.xml	(date 1562489967445)
+@@ -20,16 +20,46 @@
+           <entry key="project.opened" value="1" />
+         </counts>
+       </usages-collector>
++      <usages-collector id="statistics.file.extensions.open">
++        <counts>
++          <entry key="java" value="1" />
++        </counts>
++      </usages-collector>
++      <usages-collector id="statistics.file.types.open">
++        <counts>
++          <entry key="JAVA" value="1" />
++        </counts>
++      </usages-collector>
+     </session>
+   </component>
+   <component name="FileEditorManager">
+     <leaf>
+-      <file pinned="false" current-in-tab="true">
++      <file pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/pom.xml">
+-          <provider selected="true" editor-type-id="text-editor" />
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="136">
++              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/src/main/java/com/cirta/jee/Person.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="34">
++              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
++            </state>
++          </provider>
+         </entry>
+       </file>
+     </leaf>
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -62,11 +92,69 @@
+     <panes>
+       <pane id="Scope" />
+       <pane id="PackagesPane" />
+-      <pane id="ProjectPane" />
++      <pane id="ProjectPane">
++        <subPane>
++          <expand>
++            <path>
++              <item name="javaeightexemple" type="b2602c69:ProjectViewProjectNode" />
++              <item name="javaeightexemple" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="javaeightexemple" type="b2602c69:ProjectViewProjectNode" />
++              <item name="javaeightexemple" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="javaeightexemple" type="b2602c69:ProjectViewProjectNode" />
++              <item name="javaeightexemple" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="main" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="javaeightexemple" type="b2602c69:ProjectViewProjectNode" />
++              <item name="javaeightexemple" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="main" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="javaeightexemple" type="b2602c69:ProjectViewProjectNode" />
++              <item name="javaeightexemple" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="main" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++              <item name="jee" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="javaeightexemple" type="b2602c69:ProjectViewProjectNode" />
++              <item name="javaeightexemple" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="test" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="javaeightexemple" type="b2602c69:ProjectViewProjectNode" />
++              <item name="javaeightexemple" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="test" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="javaeightexemple" type="b2602c69:ProjectViewProjectNode" />
++              <item name="javaeightexemple" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="test" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++              <item name="jee" type="462c0819:PsiDirectoryNode" />
++            </path>
++          </expand>
++          <select />
++        </subPane>
++      </pane>
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562455176964" />
++    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562489921211" />
++    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+   </component>
+   <component name="RunDashboard">
+     <option name="ruleStates">
+@@ -93,6 +181,15 @@
+     </task>
+     <servers />
+   </component>
++  <component name="TodoView">
++    <todo-panel id="selected-file">
++      <is-autoscroll-to-source value="true" />
++    </todo-panel>
++    <todo-panel id="all">
++      <are-packages-shown value="true" />
++      <is-autoscroll-to-source value="true" />
++    </todo-panel>
++  </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+     <layout>
+@@ -103,9 +200,9 @@
+       <window_info id="Favorites" side_tool="true" />
+       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+-      <window_info anchor="bottom" id="SonarLint" />
+-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.329718" />
++      <window_info anchor="bottom" id="SonarLint" weight="0.329718" />
++      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.329718" />
++      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
+       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+       <window_info anchor="bottom" id="Messages" weight="0.329718" />
+       <window_info anchor="bottom" id="Message" order="0" />
+@@ -114,7 +211,7 @@
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+-      <window_info anchor="bottom" id="TODO" order="6" />
++      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+       <window_info anchor="right" id="Palette" />
+       <window_info anchor="right" id="Theme Preview" />
+       <window_info anchor="right" id="Capture Analysis" />
+@@ -125,12 +222,71 @@
+       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+     </layout>
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="RECENTLY_FILTERED_USER_GROUPS">
++                <collection />
++              </option>
++              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
++                <collection>
++                  <UserGroup>
++                    <option name="users">
++                      <list>
++                        <option value="master" />
++                      </list>
++                    </option>
++                  </UserGroup>
++                  <UserGroup>
++                    <option name="users">
++                      <list>
++                        <option value="origin/master" />
++                      </list>
++                    </option>
++                  </UserGroup>
++                  <UserGroup>
++                    <option name="users">
++                      <list>
++                        <option value="HEAD" />
++                      </list>
++                    </option>
++                  </UserGroup>
++                </collection>
++              </option>
++              <option name="COLUMN_ORDER">
++                <list>
++                  <option value="0" />
++                  <option value="1" />
++                  <option value="2" />
++                  <option value="3" />
++                </list>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsContentAnnotationSettings">
+     <option name="myLimit" value="2678400000" />
+   </component>
+   <component name="editorHistoryManager">
+     <entry file="file://$PROJECT_DIR$/pom.xml">
+-      <provider selected="true" editor-type-id="text-editor" />
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="136">
++          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/main/java/com/cirta/jee/Person.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="34">
++          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
++        </state>
++      </provider>
+     </entry>
+   </component>
+   <component name="masterDetails">
