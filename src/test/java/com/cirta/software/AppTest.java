@@ -1,4 +1,4 @@
-package com.cirta.jee;
+package com.cirta.software;
 
 import static org.junit.Assert.assertTrue;
 
