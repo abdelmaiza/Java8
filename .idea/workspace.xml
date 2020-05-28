@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09a7efec-aab4-4845-a799-70d97d34d24c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/collectors/CollectorsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/collectors/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/lambda/ChainConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/lambda/ComparatorLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/lambda/FirstLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/lambda/RunnableLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/stream/FirstPredicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/stream/FlatMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/stream/IntermediaryAndFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/stream/ReductionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/people.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/unnamed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/date_and_time/DataAndTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/date_and_time/FormatDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/date_and_time/LocalTimeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/date_and_time/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cirta/software/date_and_time/ZoneDateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/peopledate.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cirta/jee/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proporties/file3" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proporties/file3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cirta/jee/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cirta/software/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +66,13 @@
       <recent name="C:\workspace\amaiza\Java8\src\main\java\com\cirta\software\stream" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectorsExample">
-    <configuration name="CollectorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cirta.software.collectors.CollectorsExample" />
+  <component name="RunManager" selected="Application.FormatDate">
+    <configuration name="DataAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cirta.software.date_and_time.DataAndTime" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cirta.software.collectors.*" />
+          <option name="PATTERN" value="com.cirta.software.date_and_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstPredicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cirta.software.stream.FirstPredicates" />
+    <configuration name="FormatDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cirta.software.date_and_time.FormatDate" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cirta.software.stream.*" />
+          <option name="PATTERN" value="com.cirta.software.date_and_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlatMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cirta.software.stream.FlatMapExample" />
+    <configuration name="LocalTimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cirta.software.date_and_time.LocalTimeExample" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cirta.software.stream.*" />
+          <option name="PATTERN" value="com.cirta.software.date_and_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cirta.software.stream.Main" />
+    <configuration name="OldDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cirta.software.date_and_time.OldDate" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cirta.software.stream.*" />
+          <option name="PATTERN" value="com.cirta.software.date_and_time.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReductionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cirta.software.stream.ReductionExample" />
+    <configuration name="ZoneDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cirta.software.date_and_time.ZoneDateTime" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cirta.software.stream.*" />
+          <option name="PATTERN" value="com.cirta.software.date_and_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectorsExample" />
-        <item itemvalue="Application.ReductionExample" />
-        <item itemvalue="Application.FlatMapExample" />
-        <item itemvalue="Application.FirstPredicates" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FormatDate" />
+        <item itemvalue="Application.ZoneDateTime" />
+        <item itemvalue="Application.LocalTimeExample" />
+        <item itemvalue="Application.DataAndTime" />
+        <item itemvalue="Application.OldDate" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562454050280</updated>
-      <workItem from="1590499691813" duration="32384000" />
+      <workItem from="1590499691813" duration="45968000" />
     </task>
     <servers />
   </component>
@@ -205,22 +192,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="408" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1590578822803" />
-    <state width="1237" height="373" key="GridCell.Tab.0.bottom" timestamp="1590594698500">
+    <state width="1237" height="234" key="GridCell.Tab.0.bottom" timestamp="1590664173872">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="373" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590594698500" />
-    <state width="1237" height="373" key="GridCell.Tab.0.center" timestamp="1590594698500">
+    <state width="1237" height="234" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590664173872" />
+    <state width="1237" height="234" key="GridCell.Tab.0.center" timestamp="1590664173872">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="373" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590594698500" />
-    <state width="1237" height="373" key="GridCell.Tab.0.left" timestamp="1590594698500">
+    <state width="1237" height="234" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590664173872" />
+    <state width="1237" height="234" key="GridCell.Tab.0.left" timestamp="1590664173872">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="373" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590594698500" />
-    <state width="1237" height="373" key="GridCell.Tab.0.right" timestamp="1590594698500">
+    <state width="1237" height="234" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590664173872" />
+    <state width="1237" height="234" key="GridCell.Tab.0.right" timestamp="1590664173872">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="373" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590594698500" />
+    <state width="1237" height="234" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590664173872" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1590578941842">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -257,10 +244,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="348" y="73" width="585" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1590500353584" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1590529541257">
+    <state x="484" y="99" key="refactoring.ChangeSignatureDialog" timestamp="1590621882262">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590529541257" />
+    <state x="484" y="99" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1590621882262" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1590623154409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590623154409" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
